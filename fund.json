@@ -1,0 +1,20 @@
+{
+"companyNamer": "ABC Corporation",
+"employees":        [     
+{
+    "Name":"Thomas",
+    "age": 29,
+    "department":"Marketing"
+    "married"
+    :true,
+    "bloodType":null
+},
+
+{
+    "Name":"Amy",
+    "age": 27,
+    "department":"Finance"
+    "married":false,
+    "bloodType":null
+                ]
+},

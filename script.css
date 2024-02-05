@@ -1,0 +1,78 @@
+body {
+    margin: 0px;
+    background-color: white;
+    height: 60vh;
+    background-size: cover;
+    background-position: center;
+    background-repeat: 0;
+    width: auto;
+}
+main {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+h1 {
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 2%;
+}
+.navbar ul{
+    list-style-type: none;
+    background-color: rgb(161, 161, 121);
+    padding-top: 0px;
+    margin: 0px;
+    text-align: left;
+    overflow: hidden;
+}
+.navbar a{
+    color: white;
+    text-decoration: none;
+    padding: 15px;
+    display: block;
+    text-align: center;
+}
+.navbar a:hover {
+    background-color: rgb(184, 199, 130);
+}
+.navbar li{
+    float: left;
+}
+
+h2 {
+    padding: 1.2%;
+}
+h1, h2 {
+    border: auto;
+    margin: auto;
+    text-align: center;
+}
+* {
+    box-sizing: border-box;
+}
+.column {
+    float: left;
+    width: 33.33%;
+    padding: 5px;
+}
+.row::after {
+    content: "";
+    display: table;
+    clear: both;
+}
+footer {
+text-align: center;
+font: italic;
+}
+.LatteArt {
+    padding-left: 27%;
+    padding-right: 27%;
+    min-height: auto;
+}
+.Logo {
+    text-align: center;
+}
+p {
+    font-size: medium;
+    text-align: center;
+    font-weight: lighter;
+}
